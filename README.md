@@ -7,6 +7,7 @@ Powered by **Google's Gemini 2.5 Flash**, it acts as a secure, local-first intel
 ---
 
 ## ✨ Key Capabilities
+<img width="700" height="400" alt="Screenshot 2025-12-04 143913" src="https://github.com/user-attachments/assets/9e49f6bd-a16b-4e7e-ba32-4af3e5c35a7c" />
 
 ### 📚 Document Knowledge Base (Ingestion Engine)
 *   **Multi-Format Support:** Ingests PDF, DOCX, XLSX, PPTX, and text/code files.
